@@ -18,12 +18,10 @@
 
 Установка и удаление русификации выполняются в том же порядке — по алфавиту (A–Z).
 
-1. [Advanced Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2851449097)
-2. [Bearing Lock Logic](https://steamcommunity.com/sharedfiles/filedetails/?id=3344671725)
-3. [Fants Block and Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=2950134231)
-4. [Fants Grinder](https://steamcommunity.com/sharedfiles/filedetails/?id=3011575610)
-5. [Fants Logic Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2947206586)
-6. [Fants Parking Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2965553955)
-7. [Fants Pipes Container Pumps Recycler](https://steamcommunity.com/sharedfiles/filedetails/?id=2963115530)
-8. [Fants Propulsion Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2949730799)
-9. [What The Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=2980339404)
+1. [Bearing Lock Logic](https://steamcommunity.com/sharedfiles/filedetails/?id=3344671725)
+2. [Fants Block and Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=2950134231)
+3. [Fants Grinder](https://steamcommunity.com/sharedfiles/filedetails/?id=3011575610)
+4. [Fants Logic Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2947206586)
+5. [Fants Parking Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2965553955)
+6. [Fants Pipes Container Pumps Recycler](https://steamcommunity.com/sharedfiles/filedetails/?id=2963115530)
+7. [Fants Propulsion Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2949730799)
