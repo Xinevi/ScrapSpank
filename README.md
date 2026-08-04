@@ -16,7 +16,7 @@
 
 ## Поддерживаемые моды (A–Z)
 
-Установка переводов выполняется в том же порядке — по алфавиту (A–Z).
+Установка и удаление русификации выполняются в том же порядке — по алфавиту (A–Z).
 
 1. [Advanced Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2851449097)
 2. [Bearing Lock Logic](https://steamcommunity.com/sharedfiles/filedetails/?id=3344671725)
@@ -26,5 +26,4 @@
 6. [Fants Parking Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2965553955)
 7. [Fants Pipes Container Pumps Recycler](https://steamcommunity.com/sharedfiles/filedetails/?id=2963115530)
 8. [Fants Propulsion Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2949730799)
-9. [Vacuum Gun](https://steamcommunity.com/sharedfiles/filedetails/?id=2897133124)
-10. [What The Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=2980339404)
+9. [What The Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=2980339404)
