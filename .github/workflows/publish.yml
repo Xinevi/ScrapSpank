@@ -16,4 +16,10 @@ jobs:
       - name: Publish the v1.2 draft release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release publish v1.2 --repo Xinevi/ScrapSpank || echo 'publish failed or already done'
+        run: |
+          rid=$(gh api repos/Xinevi/ScrapSpank/releases --paginate -q '.[] | select(.tag_name=="v1.2") | .id' | head -n1)
+          if [ -z "$rid" ]; then
+            echo 'no v1.2 draft found'
+          else
+            gh api -X PATCH repos/Xinevi/ScrapSpank/releases/$rid -f draft=false
+          fi
