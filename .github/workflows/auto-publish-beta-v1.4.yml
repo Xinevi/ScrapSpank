@@ -1,0 +1,30 @@
+name: Auto-publish Beta v1.4
+
+on:
+  schedule:
+    - cron: '0 9 15 8 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const { data: releases } = await github.rest.repos.listReleases({ owner, repo, per_page: 100 });
+            const draft = releases.find(r => r.draft && r.name === 'Beta v1.4');
+            if (!draft) {
+              console.log('Draft "Beta v1.4" not found, nothing to publish.');
+              return;
+            }
+            await github.rest.repos.updateRelease({
+              owner, repo, release_id: draft.id,
+              tag_name: 'Beta-v1.4', name: 'Beta v1.4',
+              draft: false, prerelease: true, make_latest: false
+            });
+            console.log('Published Beta v1.4 (id=' + draft.id + ') with tag Beta-v1.4');
