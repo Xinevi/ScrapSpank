@@ -1,0 +1,26 @@
+name: Publish Beta 1.4
+
+# Публикует драфт релиза "Beta-v1.4" автоматически:
+#   20 августа в 19:00 по Москве (16:00 UTC).
+# Если таймзона отличается — поправь cron ниже.
+# Также можно запустить вручную со вкладки Actions.
+
+on:
+  schedule:
+    - cron: '0 16 20 8 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Опубликовать драфт Beta-v1.4
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release edit "Beta-v1.4" --draft=false
+          echo "Релиз Beta-v1.4 опубликован"
