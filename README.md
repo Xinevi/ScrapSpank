@@ -19,14 +19,23 @@
 Установка и удаление русификации выполняются в том же порядке — по алфавиту (A–Z).
 
 1. [Bearing Lock Logic](https://steamcommunity.com/sharedfiles/filedetails/?id=3344671725)
-2. [Fants Block and Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=2950134231)
-3. [Fants Grinder](https://steamcommunity.com/sharedfiles/filedetails/?id=3011575610)
-4. [Fants Logic Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2947206586)
-5. [Fants Mountable Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=3039777840)
-6. [Fants Parking Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2965553955)
-7. [Fants Pipes Container Pumps Recycler](https://steamcommunity.com/sharedfiles/filedetails/?id=2963115530)
-8. [Fants Propulsion Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2949730799)
-9. [Storage Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3223948145)
+2. [Better Plasma Drill](https://steamcommunity.com/sharedfiles/filedetails/?id=3781223897)
+3. [Fants Block and Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=2950134231)
+4. [Fants Grinder](https://steamcommunity.com/sharedfiles/filedetails/?id=3011575610)
+5. [Fants Logic Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2947206586)
+6. [Fants Mountable Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=3039777840)
+7. [Fants Parking Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2965553955)
+8. [Fants Pipes Container Pumps Recycler](https://steamcommunity.com/sharedfiles/filedetails/?id=2963115530)
+9. [Fants Propulsion Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=2949730799)
+10. [Fants Suckomatic](https://steamcommunity.com/sharedfiles/filedetails/?id=3012082374)
+11. [Fants Unit Facer](https://steamcommunity.com/sharedfiles/filedetails/?id=2999989626)
+12. [Magnet Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=3782919981)
+13. [Modular Tank Track](https://steamcommunity.com/sharedfiles/filedetails/?id=2848023872)
+14. [Portal Gun](https://steamcommunity.com/sharedfiles/filedetails/?id=2886179111)
+15. [Portals](https://steamcommunity.com/sharedfiles/filedetails/?id=2094500256)
+16. [Storage Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3223948145)
+17. [World Map](https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057)
+18. [XXL Ammo Container](https://steamcommunity.com/sharedfiles/filedetails/?id=3780806735)
 
 ## Обратная связь
 
